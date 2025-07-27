@@ -17,7 +17,7 @@ The workflow includes:
 - Feature encoding and scaling
 - Log transformation for skewed features
 - Model training and selection (Ridge, Lasso, Linear Regression)
-- Model evaluation using R²,
+- Model evaluation using R²
 - Saving the final model 
 
 ---
@@ -27,28 +27,10 @@ The workflow includes:
 | Model           | R² Score |
 |----------------|----------|
 | Linear         | 0.8663    | 
-| Ridge          | 0.866     | 
-| Lasso          | 0.868     | 
+| Ridge          | 0.868     | 
+| Lasso          | 0.866     | 
 
 ---
-
-## 📊 Visualizations
-
-> Add visuals like EDA plots or feature importance here (optional)
-
-![EDA Example](images/eda_sample.png)
-![Feature Importance](images/feature_importance.png)
-
----
-
-## 🛠️ Technologies Used
-
-- Python
-- Scikit-learn
-- Pandas, NumPy
-- Seaborn, Matplotlib
-- Joblib (for model saving)
-- YAML (for configuration)
 
 ---
 
