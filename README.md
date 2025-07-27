@@ -1,7 +1,7 @@
 # 🏠 House Price Prediction
 A machine learning project to predict house prices using various regression models (Linear, Ridge, Lasso). The project includes full data preprocessing, feature engineering, model selection, cross-validation, and model evaluation.
 
- link="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data"
+[House Prices - Advanced Regression Techniques (Kaggle)](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 ![House Prices Banner](https://storage.googleapis.com/kaggle-media/competitions/House%20Prices/kaggle_5407_media_housesbanner.png)
 
 
