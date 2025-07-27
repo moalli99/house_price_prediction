@@ -1,6 +1,9 @@
 # 🏠 House Price Prediction
-
 A machine learning project to predict house prices using various regression models (Linear, Ridge, Lasso). The project includes full data preprocessing, feature engineering, model selection, cross-validation, and model evaluation.
+
+data link ="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data"
+![Uploading kaggle_5407_media_housesbanner.png…]()
+
 
 ---
 
@@ -14,8 +17,8 @@ The workflow includes:
 - Feature encoding and scaling
 - Log transformation for skewed features
 - Model training and selection (Ridge, Lasso, Linear Regression)
-- Model evaluation using R², MAE, RMSE
-- Saving the final model for future inference
+- Model evaluation using R²,
+- Saving the final model 
 
 ---
 
