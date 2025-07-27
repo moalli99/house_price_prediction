@@ -22,7 +22,7 @@ The workflow includes:
 
 ---
 
-## 🧪 Model Comparison
+## Model Comparison
 
 | Model           | R² Score |
 |----------------|----------|
