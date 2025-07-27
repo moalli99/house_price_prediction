@@ -1,0 +1,25 @@
+# config.yaml
+path:
+   train: "C:\\Users\\Mohamed_ali\\Downloads\\train.csv"
+   test: 
+feature_selection : true
+
+cross_validation:
+  n_splits: 5
+  shuffle: true
+  random_state: 42
+
+# Models and Grid Search Settings
+models:
+  linear_regression:
+    param_grid: {}
+
+  ridge:
+    param_grid:
+      model__alpha: [0.1,.001,.01,.0001, 1.0, 10.0, 100.0]
+
+  lasso:
+    param_grid:
+      model__alpha: [0.001, 0.01, 0.1, 1.0]
+
+scoring: r2
