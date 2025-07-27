@@ -24,11 +24,11 @@ The workflow includes:
 
 ## 🧪 Model Comparison
 
-| Model           | R² Score | MAE      | RMSE     |
-|----------------|----------|----------|----------|
-| Linear         | 0.86     | 19,000   | 29,000   |
-| Ridge          | 0.89     | 17,000   | 27,000   |
-| Lasso          | 0.87     | 18,000   | 27,500   |
+| Model           | R² Score |
+|----------------|----------|
+| Linear         | 0.8663    | 
+| Ridge          | 0.866     | 
+| Lasso          | 0.868     | 
 
 ---
 
